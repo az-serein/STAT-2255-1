@@ -1,0 +1,6 @@
+name: my_venv
+channels:
+  - defaults
+dependencies:
+  - python=3.9.7
+prefix: /Users/nacmac/miniconda3/envs/my_venv
