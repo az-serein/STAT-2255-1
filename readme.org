@@ -52,11 +52,11 @@ miniconda]].
 |---------------------------+--------|
 
 * Exams
-The midterm exam will be held in class on Thursday, and the final exam will be
+The midterm exam will be held in class on Tuesday, and the final exam will be
 held at UConn scheduled time and location. They are closed book and closed
 notes. *No Make-up Exams!* The following is tentative exam schedule.
 
-- Midterm (Tentative): <2023-03-19 Thu>, in class.
+- Midterm (Tentative): <2023-03-19 Tue>, in class.
 - Final: To be announced by department
 
 * Homework:
